@@ -12,17 +12,17 @@
   - See nearby scouts stamina bars when within 20 meters
   - Expanded scout customization: more color presets and custom RGB sliders for more customization
 - Improved rope physics: swing, build momentum, and jump-off ropes
-- Uncapped player limit, play with up to 12 players
-- Push other scouts using the <kbd>F</kbd>, teamwork or mischief?
+- Uncapped player limit, up to 12 players
+- Push other scouts using <kbd>F</kbd>, teamwork or mischief?
 - Trigger ragdoll mode on demand with the <kbd>X</kbd> keybind
-- Zoom in and out with <kbd>C</kbd> and the <kbd>Mouse Wheel Up</kbd>/<kbd>mouse Wheel Down</kbd>
-- ...and so much more to discover!
+- Zoom in and out with <kbd>C</kbd> and <kbd>Mouse Wheel Up</kbd>/<kbd>mouse Wheel Down</kbd>
+- ...and much more to discover!
 
 
 
 ![installation.png](https://raw.githubusercontent.com/FREAKS-Network/PEAK-Modpack/master/.github/assets/img/installation.png)
 
-Install and setup [GaleModManager](https://thunderstore.io/c/lethal-company/p/Kesomannen/GaleModManager/) or [r2modman](https://new.thunderstore.io/c/lethal-company/p/ebkr/r2modman/), then click on the `Install with Mod Manager` button right above or search the modpack's name using the mod browser in your mod manager.
+Install and setup [GaleModManager](https://new.thunderstore.io/c/peak/p/Kesomannen/GaleModManager/) or [r2modman](https://new.thunderstore.io/c/peak/p/ebkr/r2modman/), then click on the `Install with Mod Manager` button right above or search the modpack's name using the mod browser in your mod manager.
 
 **Pro tip:** To avoid any issues when loading the game or joining a lobby, don't forget to check if any mods got updated, if they did, click the `Update all` button within the installed mods tab of your mod manager, that also counts when installing the modpack for the first time.
 <br>
@@ -36,7 +36,7 @@ Our personnal and recommended configurations for all of the active mods are alre
 
 **Disclaimer:** Disabling certain mods or changing mods configs that are Host-Sided can lead to de-sync issues, bugs, or prevent you from joining a lobby, so avoid modifying them unless you are certain of the changes you've done.
 
-###### You can customize mods configs using the `Config editor` tab in either [GaleModManager](https://thunderstore.io/c/peak/p/Kesomannen/GaleModManager/)/[r2modman](https://new.thunderstore.io/c/peak/p/ebkr/r2modman/) or directly in-game.
+###### You can customize mods configs using the `Config editor` tab in either [GaleModManager](https://new.thunderstore.io/c/peak/p/Kesomannen/GaleModManager/)/[r2modman](https://new.thunderstore.io/c/peak/p/ebkr/r2modman/) or directly in-game.
 
 
 

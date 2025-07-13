@@ -1,8 +1,8 @@
 {
 	"name":"FREAKS_Modpack__",
-	"version_number":"1.0.0",
+	"version_number":"1.1.0",
 	"website_url":"https://github.com/FREAKS-Network/PEAK-Modpack/",
-	"description":"[v1.6.b] Modpack by FREAKS® for PEAK, includes over 20 vanilla-friendly QoL mods to enhance your ascension!",
+	"description":"[v1.7.a] Modpack by FREAKS® for PEAK, includes over 20 vanilla-friendly QoL mods to enhance your ascension!",
 	"dependencies":[
 		"Ayzax-Reconnect_Catchup-1.0.0",
 		"BepInEx-BepInExPack_PEAK-5.4.2403",
@@ -10,7 +10,7 @@
 		"boxofbiscuits97-ItemStats-0.2.0",
 		"boxofbiscuits97-PushMod-0.5.0",
 		"boxofbiscuits97-ResultsSkip-0.1.0",
-		"Bub-EaglesEye-2.3.0",
+		"Bub-EaglesEye-2.6.0",
 		"CakeDevs-Leaderboard-1.0.5",
 		"CoddingCat-MoreScouts-0.3.1",
 		"figgies-SmoreSkinColors-1.1.0",
@@ -20,12 +20,13 @@
 		"jkqt-StaminaInfo-1.0.0",
 		"lamiiasuu-RopeSwingingMod-0.6.3",
 		"Luluberlu-BetterRagdoll-1.0.5",
+		"MusicallyUntalented-EveryItemBonks-1.0.0",
 		"MasterAli2-CustomMessages-1.0.0",
 		"Mhz-GameTweaks-1.0.4",
 		"nickklmao-EasyBackpack-1.1.0",
 		"nickklmao-PeakStats-0.2.0",
 		"Roose-Piggyback-1.3.1",
-		"Snosz-SkinColorSliders-1.1.0",
+		"Snosz-SkinColorSliders-1.2.0",
 		"xammen-RopeCut-1.1.0"
 	]
 }
